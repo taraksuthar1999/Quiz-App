@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What is the Capital of Gujarat ?",
+    "options": ["Ahmedabad", "Surat", "Goa", "Gandhinagar"],
+    "answer": "Gandhinagar"
+  },
+  {
+    "question": "Who is the Prime minister of India ?",
+    "options": [
+      "Amitabh bachan",
+      "Salman khan",
+      "Mahatma Gandhi",
+      "Narendra Modi"
+    ],
+    "answer": "Narendra Modi"
+  }
+]
